@@ -3,7 +3,7 @@
 #### Welcome to my github,
 
 - ❤ I’m a front-end developer
-- 🐱‍👤 I’m currently learning Angular 2+
+- 🐱‍👤 I’m currently learning and working with Angular 2+
 - 👧 Pronouns: She/her
 
 ##
@@ -22,6 +22,7 @@
   <img align="center" alt="Icon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Icon-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Icon-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Icon-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ##
