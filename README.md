@@ -3,7 +3,8 @@
 #### Welcome to my github,
 
 - ❤ I’m a front-end developer
-- 🐱‍👤 I’m currently learning and working with Angular 2+
+- 🐱 I’m currently working with Angular 2+ and JavaScript
+- 🤞 I'm learning TypeScript, Sass and React.js
 - 👧 Pronouns: She/her
 
 ##
