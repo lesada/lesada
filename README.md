@@ -4,7 +4,7 @@
 
 - ❤ Front-End Developer
 - 🐱 I’m currently working with Adobe Experience Manager and JavaScript
-- 🤞 I'm learning TypeScript and React.js
+- 🤞 Nowdays I'm learning TypeScript and React.js
 
 ##
 
