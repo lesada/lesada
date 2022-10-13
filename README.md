@@ -2,9 +2,9 @@
 
 #### Welcome to my github,
 
-- ❤ I’m a front-end developer
-- 🐱 I’m currently working with Angular 2+ and JavaScript
-- 🤞 I'm learning TypeScript, Sass and React.js
+- ❤ Front-End Developer
+- 🐱 I’m currently working with Adobe Experience Manager and JavaScript
+- 🤞 I'm learning TypeScript and React.js
 
 ##
 
