@@ -3,8 +3,8 @@
 #### Welcome to my github,
 
 - ❤ Front-End Developer
-- 🐱 I’m currently working with Adobe Experience Manager and JavaScript
-- 🤞 Nowdays I'm learning TypeScript and React.js
+- 🐱 I’m currently working with React Native and TypeScript
+- 🤞 Nowdays I'm learning React.js and improving my knowledge
 
 ##
 
