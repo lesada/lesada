@@ -1,10 +1,11 @@
-### Hey, I'm Lauren Leslie 👋
+### Hey there, my name is Lauren Leslie 👋
 
 #### Welcome to my github,
 
-- ❤ Front-End Developer
-- 🐱 I’m currently working with React Native and TypeScript
-- 🤞 Nowdays I'm learning React.js and improving my knowledge
+- 💙 I am a developer extremely passionate about Front-End and currently exploring mobile development with React Native.
+- 💜 I've worked with several technologies, currently I'm using TypeScript and React most of the time.
+- 💙 I'm a undergraduate computer science student, pursuing my bachelor's degree, and I am graduated computer technician.
+- 💜 Always improving myself
 
 ##
 
