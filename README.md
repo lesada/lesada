@@ -2,9 +2,11 @@
 
 #### Welcome to my github,
 
-- 💙 I am a developer extremely passionate about Front-End and currently exploring mobile development with React Native.
-- 💜 I've worked with several technologies, currently I'm using TypeScript and React most of the time.
-- 💙 I'm a undergraduate computer science student, pursuing my bachelor's degree, and I am graduated computer technician.
+- 💙 I am a developer extremely passionate about Front-End.
+- 💜 I've worked with several technologies, currently I'm using TypeScript and JavaScript most of the time.
+- 💙 Most of the time I'm using React, Angular or Next.js in my projects.
+- 💜 Currently I'm exploring mobile development with React Native.
+- 💙 I'm a undergraduate computer science student, pursuing my bachelor's degree. Besides, I'm also a computer technician.
 - 💜 Always improving myself
 
 ##
