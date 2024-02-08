@@ -2,12 +2,13 @@
 
 #### Welcome to my github,
 
-- 💙 I am a developer extremely passionate about Front-End.
-- 💜 I've worked with several technologies, currently I'm using TypeScript and JavaScript most of the time.
-- 💙 Most of the time I'm using React, Angular or Next.js in my projects.
-- 💜 Currently I'm exploring mobile development with React Native.
-- 💙 I'm a undergraduate computer science student, pursuing my bachelor's degree. Besides, I'm also a computer technician.
-- 💜 Always improving myself
+I'm a front-end developer with 3 years of experience in creating user-focused websites and applications. My journey has acquainted me with JavaScript and TypeScript, working proficiently within renowned frameworks such as React, React Native, and Angular.
+
+I'm currently pursuing a degree in computer science, and actively expanding my knowledge and proficiency in response to the ever-evolving tech landscape.
+
+My foray into the tech world began with the successful completion of a technical course in information technology at the Federal Institute of Rio Grande do Sul - Campus Restinga.
+
+Know more:
 
 ##
 
