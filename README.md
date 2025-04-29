@@ -2,22 +2,24 @@
 
 #### Welcome to my GitHub!
 
-I'm a front-end developer with **5 years of experience** building web and mobile applications focused on performance, accessibility, and user experience.
+I'm a developer with **5 years of experience** building web and mobile applications focused on performance, accessibility, and user experience.
 
 I'm currently pursuing a degree in **Computer Science**, and I’m always exploring new technologies to keep up with the fast-moving tech ecosystem. I'm passionate about turning ideas into functional, scalable, and pixel-perfect interfaces.
 
 ---
 
-### 💻 Technologies I work with
+### 💻 Technologies I work with:
 
-**🧠 Languages:**  
+**🧠 Main Languages:**  
 - ⚡ **JavaScript**  
 - 🔷 **TypeScript**
 
 **🌐 Web Development:**  
 - ⚛️ **React**  
 - 🅰️ **Angular**  
-- 🎨 Styling with **SASS**, **CSS**, **styled-components**, and **Tailwind CSS**
+- 🌐 **Next.js**  
+- ⚡ **Vite**  
+- 🎨 Styling with **SCSS**, **CSS**, **styled-components**, and **Tailwind CSS**
 
 **📱 Mobile Development:**  
 - 📲 **React Native**  
@@ -26,7 +28,10 @@ I'm currently pursuing a degree in **Computer Science**, and I’m always explor
 
 **🛠️ Back-end Development:**  
 - 🌿 **Node.js** for APIs and microservices  
-- 🧱 **Java** for enterprise/server-side development
+- 🔑 **Prisma** ORM for database management  
+- 🌀 **Drizzle** for working with SQL-based databases  
+- 🐘 **PostgreSQL**  
+- 🐬 **MySQL**
 
 **🧪 Testing:**  
 - 🧪 **Jest**  
