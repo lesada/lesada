@@ -1,21 +1,45 @@
-### Hey there, my name is Lauren Leslie 👋
+### Hey there, I'm Lauren Leslie 👋
 
-#### Welcome to my github,
+#### Welcome to my GitHub!
 
-I'm a front-end developer with 3 years of experience in creating user-focused websites and applications. My journey has acquainted me with JavaScript and TypeScript, working proficiently within renowned frameworks such as React, React Native, and Angular.
+I'm a developer with **5 years of experience** building web and mobile applications focused on performance, accessibility, and user experience.
 
-I'm currently pursuing a degree in computer science, and actively expanding my knowledge and proficiency in response to the ever-evolving tech landscape.
+I'm currently pursuing a degree in **Computer Science**, and I’m always exploring new technologies to keep up with the fast-moving tech ecosystem. I'm passionate about turning ideas into functional, scalable, and pixel-perfect interfaces.
 
-My foray into the tech world began with the successful completion of a technical course in information technology at the Federal Institute of Rio Grande do Sul - Campus Restinga.
+---
 
-Know more:
+### 💻 Technologies I work with
 
-##
+**Languages:**
+- My main tools are **JavaScript** and **TypeScript**
 
-<div align="center">
-  <a href="https://github.com/lesada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesada&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+**Web Development:**
+- **React** • **Angular**  
+- Styling with **SASS**, **CSS**, **styled-components**, and **Tailwind CSS**
+
+**Mobile Development:**
+- **React Native**  
+- Experience with **Java** and **Kotlin** for Android
+
+**Back-end Development:**
+- **Node.js** for building APIs and services  
+- Experience with **Java** for server-side applications
+
+**Testing:**
+- **Jest** and **Vitest** for unit and integration testing
+
+**DevOps & Deployment:**
+- **Vercel** for hosting and continuous deployment  
+- Experience with **CI/CD pipelines**, code quality analysis using **SonarQube**
+
+---
+
+### 🚀 About Me
+
+My journey into tech began with a technical course in Information Technology at the *Federal Institute of Rio Grande do Sul – Campus Restinga*, where I built a strong foundation in software development.
+
+Since then, I’ve been growing professionally through real-world projects, working both individually and collaboratively, always focused on writing clean, maintainable code and following best practices.
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
